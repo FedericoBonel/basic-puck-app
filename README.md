@@ -1,8 +1,5 @@
-# React + Vite
+# React + Vite + Puck
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template offers a streamlined setup to get React and Puck running in a Vite project with hot module replacement (HMR) and basic ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> For guidance on integrating Puck with Next.js or Remix, check out [Puck's dedicated recipes](https://github.com/measuredco/puck?tab=readme-ov-file#recipes).
